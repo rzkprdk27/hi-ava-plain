@@ -17,7 +17,7 @@ const variables = {
   generated: ["{greetings}, {nicknames}!"],
 };
 
-const particlesConfig = {
+const particlesConfig = { 
   particles: {
     number: { 
       value: 50,
